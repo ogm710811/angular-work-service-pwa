@@ -1,27 +1,13 @@
 # AngularPwaApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
+This project was generated with [Angular CLI]
+Angular Service Worker - How turn your Application into a PWA
 
-## Development server
+Native-like Application Download and Installation is now simpler than ever with the Angular Service Worker and the Angular CLI! The performance benefits that this feature brings to any application (desktop included) are huge and can be added incrementally to a standard PWA in a progressive way. Any application (mobile or not) can benefit from a much faster startup time, and this feature can be made to work out of the box with some intelligent defaults provided by the Angular CLI.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+In this project, we cover the following topics:
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+ - Running and Understanding the PWA Production Build
+ - Launching an Angular PWA in Production Mode
+ - Deploying a new Application Version, Understanding Version Management
+ - One-Click Install with the App Manifest
